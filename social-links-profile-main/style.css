@@ -1,0 +1,131 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: black;
+  
+}
+.mainbox {
+  height: 80vh;
+  width: 26vw;
+  margin: 75px 620px;
+  background-color: hsl(0, 0%, 8%);
+  border-radius: 20px;
+}
+img {
+  margin-left: 135px;
+  margin-top: 30px;
+  border-radius: 400px;
+  height: 100px;
+}
+h1 {
+  color: white;
+  font-weight: bold;
+  margin-left: 80px;
+}
+h3 {
+  color: hsl(75, 94%, 57%);
+  margin-left: 90px;
+}
+p {
+  font-size: 14px;
+  color: white;
+  margin-left: 75px;
+}
+
+
+.github {
+
+  width: 300px;
+  height: 50px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.frontendmentor {
+  
+  width: 300px;
+  height: 50px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-weight: bold;
+  margin-top: 15px;
+  cursor: pointer;
+border-radius: 10px;
+}
+.linkedin {
+  
+  width: 300px;
+  height: 50px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-weight: bold;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.twitter {
+ 
+  width: 300px;
+  height: 50px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-weight: bold;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.instagram {
+  
+  width: 300px;
+  height: 50px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  font-weight: bold;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.github:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.frontendmentor:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.linkedin:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.twitter:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.instagram:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
